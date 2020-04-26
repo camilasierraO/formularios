@@ -8,4 +8,4 @@ sign up form and login form.
 ### Technology
 1. HTML
 2. CSS
-3. JAVA SCRIPt
+3. JAVA SCRIPT
